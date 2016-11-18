@@ -5,8 +5,9 @@
 - Mozilla Firefox
 - Google Chrome
 - Sublime Text
-- fish shell (brew install fish)
-- hub (brew install hub)
+- fish shell `brew install fish`
+- hub `brew install hub`
+- rg `brew install ripgrep`
 - VirtualBox
 - Docker Toolbox
     - Docker Client 
@@ -28,8 +29,9 @@ One of the following:
 
 ### Themes
 
-https://github.com/fabianperez/ocean-dark-iterm
-https://packagecontrol.io/packages/Seti_UI (via Package Control)
+https://github.com/fabianperez/ocean-dark-iterm - Ocean theme for iTerm
+https://packagecontrol.io/packages/Seti_UI (install via ST's Package Control)
+http://madmalik.github.io/mononoki/ - a font for programming and code review
 
 
 ### Communities
@@ -38,3 +40,4 @@ https://packagecontrol.io/packages/Seti_UI (via Package Control)
 - https://frontendlondon.slack.com
 - https://beam-italia.slack.com
 - https://elixir-lang.slack.com
+- https://elmlang.slack.com
