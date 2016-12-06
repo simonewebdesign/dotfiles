@@ -8,6 +8,7 @@
 - fish shell `brew install fish`
 - hub `brew install hub`
 - rg `brew install ripgrep`
+- watchexec - check page for installation https://github.com/mattgreen/watchexec
 - VirtualBox
 - Docker Toolbox
     - Docker Client 
