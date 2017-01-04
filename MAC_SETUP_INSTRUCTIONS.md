@@ -1,4 +1,4 @@
-### List of programs
+### Programs
 
 - Xcode
 - Homebrew
@@ -42,3 +42,9 @@ http://madmalik.github.io/mononoki/ - a font for programming and code review
 - https://beam-italia.slack.com
 - https://elixir-lang.slack.com
 - https://elmlang.slack.com
+
+
+### Feeds
+
+- http://xkcd.com/rss.xml or http://xkcd.com/atom.xml
+- http://www.commitstrip.com/en/feed/
