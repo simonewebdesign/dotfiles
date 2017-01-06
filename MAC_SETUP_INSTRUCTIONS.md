@@ -1,5 +1,7 @@
 ### Programs
 
+- Git
+- GPG
 - Xcode
 - Homebrew
 - Mozilla Firefox
