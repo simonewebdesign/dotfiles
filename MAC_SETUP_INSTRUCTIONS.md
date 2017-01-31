@@ -32,9 +32,9 @@ One of the following:
 
 ### Themes
 
-https://github.com/fabianperez/ocean-dark-iterm - Ocean theme for iTerm
-https://packagecontrol.io/packages/Seti_UI (install via ST's Package Control)
-http://madmalik.github.io/mononoki/ - a font for programming and code review
+- https://github.com/fabianperez/ocean-dark-iterm - Ocean theme for iTerm
+- https://packagecontrol.io/packages/Seti_UI (install via ST's Package Control)
+- http://madmalik.github.io/mononoki/ - a font for programming and code review
 
 
 ### Communities
