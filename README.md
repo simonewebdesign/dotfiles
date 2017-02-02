@@ -5,7 +5,8 @@ Just my own settings. Right now there are only `bash` aliases and `fish` functio
 ## Getting started
 
 ```
-git clone git@github.com:simonewebdesign/dotfiles.git ~
-# or git init from ~, then git remote add
+cd
+git init
+git remote add origin git@github.com:simonewebdesign/dotfiles.git
 git pull origin master
 ```
