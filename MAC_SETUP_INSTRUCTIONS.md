@@ -50,3 +50,11 @@ One of the following:
 
 - http://xkcd.com/rss.xml or http://xkcd.com/atom.xml
 - http://www.commitstrip.com/en/feed/
+
+
+### Sublime Text "Must-Have" packages
+
+- BracketHighlighter
+- Git
+- GitGutter
+- SideBarEnhancements
