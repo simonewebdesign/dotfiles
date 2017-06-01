@@ -58,3 +58,15 @@ One of the following:
 - Git
 - GitGutter
 - SideBarEnhancements
+
+### Preferences.sublime-settings
+
+```json
+{
+	"color_scheme": "Packages/Seti_UX/Seti.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"theme": "Seti_orig.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
+```
