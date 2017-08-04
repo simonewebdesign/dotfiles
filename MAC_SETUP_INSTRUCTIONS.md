@@ -12,12 +12,7 @@
 - rg `brew install ripgrep`
 - watchexec - check page for installation https://github.com/mattgreen/watchexec
 - VirtualBox
-- Docker Toolbox
-    - Docker Client 
-    - Docker Machine 
-    - Docker Compose
-    - VirtualBox
-    - Excluded: Docker Kitematic
+- Docker for Mac (Docker Toolbox is deprecated)
 
 
 ### Encryption
