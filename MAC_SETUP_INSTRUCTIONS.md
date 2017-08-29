@@ -13,7 +13,7 @@
 - watchexec - check page for installation https://github.com/mattgreen/watchexec
 - VirtualBox
 - Docker for Mac (Docker Toolbox is deprecated)
-
+- LICEcap (records screen and makes gif)
 
 ### Encryption
 
