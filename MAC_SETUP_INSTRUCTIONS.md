@@ -9,11 +9,14 @@
 - Sublime Text
 - fish shell `brew install fish`
 - hub `brew install hub`
-- rg `brew install ripgrep`
-- watchexec - check page for installation https://github.com/mattgreen/watchexec
+- [rg](https://github.com/BurntSushi/ripgrep) `brew install ripgrep` (replacement for `grep`)
+- [exa](https://the.exa.website/) `brew install exa` (replacement for `ls`)
+- [fd](https://github.com/sharkdp/fd) `brew install fd` (replacement for `find`)
+- [watchexec](https://github.com/mattgreen/watchexec)
 - VirtualBox
 - Docker for Mac (Docker Toolbox is deprecated)
 - LICEcap (records screen and makes gif)
+
 
 ### Encryption
 
@@ -53,6 +56,7 @@ One of the following:
 - Git
 - GitGutter
 - SideBarEnhancements
+
 
 ### Preferences.sublime-settings
 
