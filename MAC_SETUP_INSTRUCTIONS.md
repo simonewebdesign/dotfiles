@@ -56,6 +56,7 @@ One of the following:
 - Git
 - GitGutter
 - SideBarEnhancements
+- MarkdownEditing
 
 
 ### Preferences.sublime-settings
