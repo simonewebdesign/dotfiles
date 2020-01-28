@@ -16,6 +16,7 @@
 - VirtualBox
 - Docker for Mac (Docker Toolbox is deprecated)
 - LICEcap (records screen and makes gif)
+- chruby and then chruby-fish
 
 
 ### Encryption
