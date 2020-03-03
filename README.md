@@ -4,11 +4,21 @@ Just my own settings. Right now there are only `bash` aliases and `fish` functio
 
 ## Getting started
 
+*Prerequisite:* Have you installed `fish` and set up `git`? 
+
+The following will copy your configuration.
+
+Just copy and paste this on your terminal:
+
 ```
 cd
-git init
-git remote add origin git@github.com:simonewebdesign/dotfiles.git
-git pull origin master
+git clone git@github.com:simonewebdesign/dotfiles.git
+cp -r dotfiles/.config ~/
+rm -r dotfiles
+
+# Abbreviations
+abbr gco 'git checkout'
+abbr be 'bundle exec'
 ```
 
 ### Bonus: useful links
