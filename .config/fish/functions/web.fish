@@ -1,3 +1,3 @@
 function web
-	python -m SimpleHTTPServer $argv;
+	python -m http.server $argv;
 end
