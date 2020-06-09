@@ -1,14 +1,14 @@
 ### Programs
 
-- Git
 - GPG
 - Xcode
 - Homebrew
 - Mozilla Firefox
 - Google Chrome
 - Sublime Text
+- VSCodium (over VSCode)
 - fish shell `brew install fish`
-- hub `brew install hub`
+- ~~hub `brew install hub`~~ [`gh`](https://github.com/cli/cli)
 - [rg](https://github.com/BurntSushi/ripgrep) `brew install ripgrep` (replacement for `grep`)
 - [exa](https://the.exa.website/) `brew install exa` (replacement for `ls`)
 - [fd](https://github.com/sharkdp/fd) `brew install fd` (replacement for `find`)
