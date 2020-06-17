@@ -14,7 +14,7 @@ Just copy and paste this on your terminal:
 cd
 git clone git@github.com:simonewebdesign/dotfiles.git
 cp -r dotfiles/.config ~/
-rm -r dotfiles
+rm -rf dotfiles
 
 # Abbreviations
 abbr gco 'git checkout'
