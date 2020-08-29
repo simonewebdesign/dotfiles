@@ -6,7 +6,7 @@
 - Mozilla Firefox
 - Google Chrome
 - Sublime Text
-- VSCodium (over VSCode)
+- VSCodium `brew install vscodium`
 - fish shell `brew install fish`
 - ~~hub `brew install hub`~~ [`gh`](https://github.com/cli/cli)
 - [rg](https://github.com/BurntSushi/ripgrep) `brew install ripgrep` (replacement for `grep`)
@@ -14,10 +14,10 @@
 - [fd](https://github.com/sharkdp/fd) `brew install fd` (replacement for `find`)
 - [watchexec](https://github.com/mattgreen/watchexec)
 - VirtualBox
-- Docker for Mac (Docker Toolbox is deprecated)
-- LICEcap (records screen and makes gif)
+- ~Docker for Mac (Docker Toolbox is deprecated)~ Docker Desktop
 - chruby and then chruby-fish
 - direnv
+
 
 ### Encryption
 
