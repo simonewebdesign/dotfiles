@@ -1,13 +1,22 @@
 ### Programs
 
-- GPG
-- Xcode
-- Homebrew
+- [Homebrew](https://brew.sh/)
+- ~~Xcode~~ no need, Homebrew installs command line tools already
+- fish shell `brew install fish`
+    - `echo /usr/local/bin/fish | sudo tee -a /etc/shells`
+    - `chsh -s /usr/local/bin/fish`
+- Git `brew install git` (to get the latest version instead of the system one)
+- GPG `brew install gpg`
 - Mozilla Firefox
 - Google Chrome
 - Sublime Text
+    - After installation: `cd; mkdir bin; ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl`
 - VSCodium `brew install vscodium`
-- fish shell `brew install fish`
+- FiraCode
+    ```
+    brew tap homebrew/cask-fonts
+    brew cask install font-fira-code
+    ```
 - ~~hub `brew install hub`~~ [`gh`](https://github.com/cli/cli)
 - [rg](https://github.com/BurntSushi/ripgrep) `brew install ripgrep` (replacement for `grep`)
 - [exa](https://the.exa.website/) `brew install exa` (replacement for `ls`)
@@ -16,7 +25,7 @@
 - VirtualBox
 - ~Docker for Mac (Docker Toolbox is deprecated)~ Docker Desktop
 - chruby and then chruby-fish
-- direnv
+- [direnv](https://direnv.net/) `brew install direnv`
 
 
 ### Encryption
