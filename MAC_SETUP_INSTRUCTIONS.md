@@ -24,7 +24,7 @@
 - [watchexec](https://github.com/mattgreen/watchexec)
 - VirtualBox
 - ~Docker for Mac (Docker Toolbox is deprecated)~ Docker Desktop
-- chruby and then chruby-fish
+- [`chruby`](https://github.com/postmodern/chruby) and then [`chruby-fish`](https://github.com/JeanMertz/chruby-fish) (mandatory when using fish shell)
 - [direnv](https://direnv.net/) `brew install direnv`
 
 
