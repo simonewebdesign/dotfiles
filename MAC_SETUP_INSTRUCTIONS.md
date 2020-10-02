@@ -26,6 +26,7 @@
 - ~Docker for Mac (Docker Toolbox is deprecated)~ Docker Desktop
 - [`chruby`](https://github.com/postmodern/chruby) and then [`chruby-fish`](https://github.com/JeanMertz/chruby-fish) (mandatory when using fish shell)
 - [direnv](https://direnv.net/) `brew install direnv`
+- [cloc](https://github.com/AlDanial/cloc) `brew install cloc`
 
 
 ### Encryption
