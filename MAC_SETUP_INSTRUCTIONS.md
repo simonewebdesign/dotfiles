@@ -1,5 +1,15 @@
 ### Programs
 
+#### tl;dr :coffee:
+
+Copy & paste this:
+
+```
+brew install git gpg fish ripgrep gh chruby chruby-fish cloc homebrew/cask-fonts/font-fira-code postgresql
+brew cask install vscodium
+```
+
+- [iTerm](https://iterm2.com)
 - [Homebrew](https://brew.sh/)
 - ~~Xcode~~ no need, Homebrew installs command line tools already
 - fish shell `brew install fish`
@@ -11,7 +21,7 @@
 - Google Chrome
 - Sublime Text
     - After installation: `cd; mkdir bin; ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl`
-- VSCodium `brew install vscodium`
+- VSCodium `brew cask install vscodium`
 - FiraCode
     ```
     brew tap homebrew/cask-fonts
