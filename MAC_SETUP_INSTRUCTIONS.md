@@ -31,6 +31,7 @@ brew cask install vscodium
 - [rg](https://github.com/BurntSushi/ripgrep) `brew install ripgrep` (replacement for `grep`)
 - [exa](https://the.exa.website/) `brew install exa` (replacement for `ls`)
 - [fd](https://github.com/sharkdp/fd) `brew install fd` (replacement for `find`)
+- [htmlq](https://github.com/mgdm/htmlq) `brew install htmlq`
 - [watchexec](https://github.com/mattgreen/watchexec)
 - VirtualBox
 - ~Docker for Mac (Docker Toolbox is deprecated)~ Docker Desktop
