@@ -1,6 +1,5 @@
-### Programs
 
-#### tl;dr :coffee:
+## tl;dr :coffee:
 
 Copy & paste this:
 
@@ -8,6 +7,8 @@ Copy & paste this:
 brew install git gpg fish ripgrep gh chruby chruby-fish cloc homebrew/cask-fonts/font-fira-code postgresql
 brew cask install vscodium
 ```
+
+### Programs
 
 - [iTerm](https://iterm2.com)
 - [Homebrew](https://brew.sh/)
