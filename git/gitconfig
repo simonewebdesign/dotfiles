@@ -1,0 +1,15 @@
+[includeIf "gitdir:~/prj/"]
+  path = ~/prj/.gitconfig
+[includeIf "gitdir:~/pro/"]
+  path = ~/pro/.gitconfig
+[commit]
+	gpgsign = true
+[alias]
+	co = checkout
+	st = status
+[pull]
+	rebase = true
+[init]
+	defaultBranch = main
+[core]
+	excludesfile = /Users/simo/.gitignore_global
