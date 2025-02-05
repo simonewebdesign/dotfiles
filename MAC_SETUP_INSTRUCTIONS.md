@@ -4,11 +4,21 @@
 Copy & paste this:
 
 ```
-brew install git gpg fish ripgrep gh chruby chruby-fish cloc homebrew/cask-fonts/font-fira-code postgresql
-brew cask install vscodium
+# Essentials
+brew install git gpg fish ripgrep
+brew install --cask vscodium eloston-chromium
+
+# Ruby stuff
+brew install ruby-install chruby chruby-fish
+
+# Other
+brew install postgresql cloc
 ```
 
 ### Programs
+
+> [!IMPORTANT]
+> Make sure you install these _in this exact order_: iTerm > Homebrew > fish.
 
 - [iTerm](https://iterm2.com)
 - [Homebrew](https://brew.sh/)
@@ -20,9 +30,10 @@ brew cask install vscodium
 - GPG `brew install gpg`
 - Mozilla Firefox
 - Google Chrome
+- [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) `brew install --cask eloston-chromium`
 - Sublime Text
     - After installation: `cd; mkdir bin; ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" ~/bin/subl`
-- VSCodium `brew cask install vscodium`
+- VSCodium `brew install --cask vscodium`
 - FiraCode
     ```
     brew tap homebrew/cask-fonts
@@ -32,7 +43,7 @@ brew cask install vscodium
 - [rg](https://github.com/BurntSushi/ripgrep) `brew install ripgrep` (replacement for `grep`)
 - [exa](https://the.exa.website/) `brew install exa` (replacement for `ls`)
 - [fd](https://github.com/sharkdp/fd) `brew install fd` (replacement for `find`)
-- [htmlq](https://github.com/mgdm/htmlq) `brew install htmlq`
+- [htmlq](https://github.com/mgdm/htmlq) `brew install htmlq` (Like `jq`, but for HTML.)
 - [watchexec](https://github.com/mattgreen/watchexec)
 - VirtualBox
 - ~Docker for Mac (Docker Toolbox is deprecated)~ Docker Desktop
