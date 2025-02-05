@@ -15,6 +15,24 @@ brew install ruby-install chruby chruby-fish
 brew install postgresql cloc
 ```
 
+### Configuring GPG to work with git
+
+Import your keys:
+
+    gpg --import path/to/key.asc
+
+Verify they've been imported successfully:
+
+    gpg --list-keys
+
+Make sure you have a pinentry program installed (to be able to insert the passphrase-macOS's default is broken):
+
+    brew install pinentry-mac
+    echo pinentry-program (which pinentry-mac) >> ~/.gnupg/gpg-agent.conf
+    killall gpg-agent
+
+Finally, restart the terminal.
+
 ### Programs
 
 > [!IMPORTANT]
