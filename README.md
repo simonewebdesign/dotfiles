@@ -16,7 +16,7 @@ git clone git@github.com:simonewebdesign/dotfiles.git
 cp -r dotfiles/.config ~/
 rm -rf dotfiles
 
-# Abbreviations
+# Abbreviations (put these in config.fish to persist them)
 abbr --add be bundle exec
 abbr --add ga git add
 abbr --add gco git checkout
