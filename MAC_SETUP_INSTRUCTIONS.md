@@ -15,6 +15,24 @@ brew install ruby-install chruby chruby-fish
 brew install postgresql cloc
 ```
 
+### Ensure SSH passphrase is saved (so you don't have to type it every time you git push)
+
+```
+# Start the SSH agent in the bg
+bash
+eval "$(ssh-agent -s)"
+
+# Open SSH config and append the text below
+codium ~/.ssh/config
+```
+
+```
+Host github.com
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_ed25519
+```
+
 ### Configuring GPG to work with git
 
 Import your keys:
