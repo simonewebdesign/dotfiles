@@ -6,7 +6,7 @@ Copy & paste this:
 ```
 # Essentials
 brew install git gpg fish ripgrep
-brew install --cask vscodium eloston-chromium
+brew install --cask vscodium eloston-chromium dbeaver-community
 
 # Ruby stuff
 brew install ruby-install chruby chruby-fish
