@@ -21,6 +21,7 @@ abbr --add be bundle exec
 abbr --add ga git add
 abbr --add gco git checkout
 abbr --add gcom git commit
+abbr --set-cursor --add gcomm 'git commit -m "`%`"'
 abbr --add gd git diff
 abbr --add gdc git diff --cached
 abbr --add gds git diff --stat
