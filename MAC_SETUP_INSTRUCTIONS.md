@@ -12,7 +12,7 @@ brew install --cask vscodium eloston-chromium dbeaver-community
 brew install ruby-install chruby chruby-fish
 
 # Other
-brew install postgresql cloc
+brew install postgresql cloc yt-dlp
 ```
 
 ### Ensure SSH passphrase is saved (so you don't have to type it every time you git push)
