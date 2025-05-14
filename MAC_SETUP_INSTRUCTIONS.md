@@ -87,6 +87,15 @@ Finally, restart the terminal.
 - [direnv](https://direnv.net/) `brew install direnv`
 - [cloc](https://github.com/AlDanial/cloc) `brew install cloc`
 
+### Consider these too
+
+- [Starship](https://starship.rs/) to customise your shell prompt
+- [Nerd Fonts](https://www.nerdfonts.com/font-downloads) - install via `brew install --cask font-<FONT NAME>-nerd-font`
+    - `0xProto` looks really legible and modern
+    - `ProggyClean` - love this one. Looks like Pokemon games text
+    - `DepartureMono` monospaced pixel font, looks really cool
+    - `GohuFont` another retro bitmap font, worth trying?
+
 
 ### Encryption
 
